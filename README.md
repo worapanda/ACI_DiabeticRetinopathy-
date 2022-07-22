@@ -1,5 +1,5 @@
 # ACI_DiabeticRetinopathy
-This contains supplementary materials for the paper ACI-06-2022-0150 (Applied Computing and Informatics), entitled "Detecting and Staging Diabetic Retinopathy in Retinal Images using Multi-Branch CNN". Diabetic retinopathy contains 4 stages including stage-1: mild non-proliferative, stage-2: moderate non-proliferative, stage-3: severe non-proliferative, and stage-4: proliferative.
+This contains supplementary materials for the paper ACI-06-2022-0150 (Applied Computing and Informatics), entitled "Detecting and Staging Diabetic Retinopathy in Retinal Images using Multi-Branch CNN". Diabetic retinopathy contains 4 stages including stage-1: mild non-proliferative, stage-2: moderate non-proliferative, stage-3: severe non-proliferative, and stage-4: proliferative. This paper thus considers a classification domain with 5 classes of 4 stages and one normal class.
 
 ![figure1](https://user-images.githubusercontent.com/109519153/180480024-02e51f51-fb5c-4b79-bfc0-dcfc01e0a507.jpg)
 
