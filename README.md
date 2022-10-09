@@ -26,6 +26,7 @@ Figure 2. An example of a CNN architecture of a multi-branch structure (e.g, Sia
 Figure 3. The structure of attention layer.
 
 References:
+
 [1] https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
 
 [2] Gangaputra S, Lovato JF, Hubbard L, Davis MD, Esser BA, Ambrosius WT, Chew EY, Greven C, Perdue LH, Wong WT, Condren A. Comparison of standardized clinical classification with fundus photograph grading for the assessment of diabetic retinopathy and diabetic macular edema severity. Retina (Philadelphia, Pa.). 2013 Jul;33(7).
