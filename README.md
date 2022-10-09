@@ -1,9 +1,14 @@
 # ACI_DiabeticRetinopathy
 This contains supplementary materials for the paper ACI-06-2022-0150 (Applied Computing and Informatics), entitled "Detecting and Staging Diabetic Retinopathy in Retinal Images using Multi-Branch CNN". Diabetic retinopathy contains a scale of 0 to 4, as below [1-2].
+
 0: No DR
+
 1: Mild non-proliferative
+
 2: Moderate non-proliferative
+
 3: Severe non-proliferative
+
 4: Proliferative. 
 
 This paper thus considers a classification domain with 5 classes of these 5 stages.
@@ -22,4 +27,5 @@ Figure 3. The structure of attention layer.
 
 References:
 [1] https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
+
 [2] Gangaputra S, Lovato JF, Hubbard L, Davis MD, Esser BA, Ambrosius WT, Chew EY, Greven C, Perdue LH, Wong WT, Condren A. Comparison of standardized clinical classification with fundus photograph grading for the assessment of diabetic retinopathy and diabetic macular edema severity. Retina (Philadelphia, Pa.). 2013 Jul;33(7).
